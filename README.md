@@ -1,6 +1,6 @@
 # ReduxBlogSample
 
-
+Build Blog Application using [Heroku Redux Blog] (http://reduxblog.herokuapp.com/)
 
 ### Getting Started
 
